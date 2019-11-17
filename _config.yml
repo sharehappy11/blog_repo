@@ -55,6 +55,10 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  搬砖: coding
+  网络安全: netsecurity
+  代码审计: codeAudit
+  linux: linux
 tag_map:
 
 # Date / Time format

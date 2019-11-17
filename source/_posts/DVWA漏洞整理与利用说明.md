@@ -2,6 +2,7 @@
 title: DVWA漏洞整理与利用说明
 date: 2017-12-13 10:03:27
 tags: [渗透测试,代码审计]
+categories: 网络安全
 ---
 ### DVWA简介
 DVWA(Damn Vulnerable Web Application)是一个用来进行安全漏洞验证的PHP/Mysql应用，为专业人员测试自己的专业技能和工具提供合法的环境，帮助web开发者更好的理解web应用安全防范过程。
